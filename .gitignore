@@ -1,3 +1,6 @@
+.tmp_tests/
+*.docx
+
 # 规划文件（本地工作文件，不上传）
 findings.md
 progress.md
@@ -22,6 +25,7 @@ venv/
 # Claude 本地配置
 .claude/
 .worktrees/
+CLAUDE.md
 
 .codex_backup
 .uv-cache
